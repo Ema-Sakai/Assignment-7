@@ -1,6 +1,6 @@
 # 概要
 第7回課題の内容は下記の通り。
-- DockerによるMySQL構築のハンズオン作業結果報告。
+- DockerによるMySQL構築のハンズオン作業結果報告。  
 ハンズオンは[こちら](https://github.com/raisetech-for-student/docker-mysql-hands-on "docker-mysql-hands-on")。
 </br>
 
