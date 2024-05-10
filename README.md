@@ -4,7 +4,7 @@
   - ハンズオンは[こちら](https://github.com/raisetech-for-student/docker-mysql-hands-on "docker-mysql-hands-on")。
 </br>
 
-## 作業環境について
+## 作業環境
 誰かの役に立ったら嬉しいので、私の作業環境を記載します。
 - PC：Windows 11 Home
 - バージョン：23H2
